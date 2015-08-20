@@ -4,4 +4,4 @@
 ReadConfig 读取解析配置文件的类，详细请看ReadConfig的[README](1)  
 Logger 日志类，待补充
 
-[1]: ./ReadConfig/ReadMe.md
+[1]: https://github.com/NicoleRobin/Tools/tree/master/ReadConfig
